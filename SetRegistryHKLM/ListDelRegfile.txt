@@ -1,0 +1,2 @@
+# Liste der Registry-Pfade, die gelöscht werden sollen
+HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace_36354489\{f874310e-b6b7-47dc-bc84-b9e6b38f5903}

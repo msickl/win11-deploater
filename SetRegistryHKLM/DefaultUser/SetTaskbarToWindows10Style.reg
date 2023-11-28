@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_USERS\<DefaultUser>\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"TaskbarMn"=dword:00000000
+"TaskbarAl"=dword:00000000
+"TaskbarBadges"=dword:00000000
+"TaskbarSn"=dword:00000000
+"TaskbarSd"=dword:00000000
+"ShowTaskViewButton"=dword:00000000
+"LaunchTo"=dword:00000001

@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_USERS\<DefaultUser>\Software\Microsoft\Windows\DWM]
+"ColorPrevalence"=dword:00000001
