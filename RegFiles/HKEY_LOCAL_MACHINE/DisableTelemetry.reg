@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; Send only Required Diagnostic and Usage Data
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\DataCollection]
+"AllowTelemetry"=dword:00000000

@@ -38,6 +38,7 @@
 *MicrosoftTeams*   # Only removes the personal version (MS Store), does not remove business/enterprise version of teams
 *Microsoft.549981C3F5F10*
 *microsoft.windowscommunicationsapps*
+#*MicrosoftWindows.Client.CBS*
 
 *ACGMediaPlayer*
 *ActiproSoftwareLLC*

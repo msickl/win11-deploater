@@ -3,7 +3,7 @@ function Remove-Apps {
         $message = "Apps werden deinstalliert"
     )
 
-    $appsFile = Join-Path -Path $PSScriptRoot -ChildPath "AppsList.txt"
+    $appsFile = Join-Path -Path $PSScriptRoot -ChildPath ".\AppsList.txt"
 
     Write-Output $message
 

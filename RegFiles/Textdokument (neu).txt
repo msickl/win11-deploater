@@ -1,0 +1,1 @@
+Bing News App provisioned app removed from OS image.                                                Attempting to remove Bing Sports App...                                                             @{id=Microsoft.BingSports; displayname=Bing Sports App; remove=True} uninstalled for existing users.

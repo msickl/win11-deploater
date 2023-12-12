@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; Disable Copilot service for all users
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsCopilot]
+"TurnOffWindowsCopilot"=dword:00000001
