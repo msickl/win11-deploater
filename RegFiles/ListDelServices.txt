@@ -1,4 +1,0 @@
-XblAuthManager
-XblGameSave
-XboxGipSvc
-XboxNetApiSvc

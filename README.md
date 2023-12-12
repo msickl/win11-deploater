@@ -238,6 +238,7 @@ TaskPath                                       |    TaskName                    
 \Microsoft\Windows\WwanSvc\                    |    NotificationTask                        |   Ready
 \Microsoft\Windows\WwanSvc\                    |    OobeDiscovery                           |   Ready
 \Microsoft\XblGameSave\                        |    XblGameSaveTask                         |   Ready
-|       
-|       
+
+
+ 
 Remove-ItemProperty "HKLM:\S    |   OFTWA   |  RE\Microsoft\Windows\CurrentVersion\Run\" -Name SecurityHealth
