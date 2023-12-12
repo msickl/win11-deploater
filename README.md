@@ -20,15 +20,15 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Desktop\Na
 Im linken Verzeichnisbaum nun ein Rechtsklick auf {f874310e-b6b7-47dc-bc84-b9e6b38f5903} -> Umbenennen und ein Minuszeichen davor setzen.
 
 
-TaskPath                                       TaskName                          State
---------                                       --------                          -----
-\                                              MicrosoftEdgeUpdateTaskMachine... Ready
-\                                              MicrosoftEdgeUpdateTaskMachineUA  Ready
-\                                              OneDrive Standalone Update Tas... Ready
-\Microsoft\Windows\.NET Framework\             .NET Framework NGEN v4.0.30319    Ready
-\Microsoft\Windows\.NET Framework\             .NET Framework NGEN v4.0.30319 64 Ready
-\Microsoft\Windows\.NET Framework\             .NET Framework NGEN v4.0.30319... Ready
-\Microsoft\Windows\.NET Framework\             .NET Framework NGEN v4.0.30319... Ready
+TaskPath                                       |  TaskName                          State
+--------                                       |  --------                          -----
+\                                              |  MicrosoftEdgeUpdateTaskMachine... Ready
+\                                              |  MicrosoftEdgeUpdateTaskMachineUA  Ready
+\                                              |  OneDrive Standalone Update Tas... Ready
+\Microsoft\Windows\.NET Framework\             |  .NET Framework NGEN v4.0.30319    Ready
+\Microsoft\Windows\.NET Framework\             |  .NET Framework NGEN v4.0.30319 64 Ready
+\Microsoft\Windows\.NET Framework\             |  .NET Framework NGEN v4.0.30319... Ready
+\Microsoft\Windows\.NET Framework\             |  .NET Framework NGEN v4.0.30319... Ready
 \Microsoft\Windows\Active Directory Rights ... AD RMS Rights Policy Template ... Disabled
 \Microsoft\Windows\Active Directory Rights ... AD RMS Rights Policy Template ... Ready
 \Microsoft\Windows\AppID\                      EDP Policy Manager                Ready
