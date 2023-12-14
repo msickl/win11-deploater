@@ -55,11 +55,10 @@ function RemoveApps {
     }
 
     $cfg = (Get-Content $config) | ConvertFrom-Json
-    $apps = $cfg.appx
 
     Write-Output "Uninstalling Windows 11 bloatware..."
 
-    foreach ($app in $apps) {
+    foreach ($app in $cfg.appx) {
         if ($app.remove -eq $true) {
             Write-Output "Attempting to remove $($app.id)..."
 
