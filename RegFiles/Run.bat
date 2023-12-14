@@ -1,1 +1,0 @@
-powershell -ExecutionPolicy Unrestricted -NoProfile -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Unrestricted -File \"%~dp0Win11_Debloat.ps1\"' -Verb RunAs}"
